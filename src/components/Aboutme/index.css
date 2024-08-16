@@ -1,0 +1,136 @@
+.about {
+  font-family: Poppins;
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 97.5px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+
+.first-Section {
+  width: 1400px;
+
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.paragraph {
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 31.5px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.subsection {
+  width: 656px;
+
+  top: 168px;
+  left: 714px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 30px;
+}
+.reactangle1 {
+  width: 687px;
+  height: 12px;
+  top: 338px;
+  left: 714px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  display: flex;
+  flex-direction: row;
+}
+
+.reactangle1 {
+  width: 687px;
+  height: 12px;
+  top: 338px;
+  left: 714px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  display: flex;
+  flex-direction: row;
+}
+.reactangle2 {
+  width: 800px;
+  height: 12px;
+  top: 338px;
+  left: 714px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  display: flex;
+  flex-direction: row;
+}
+.reactangle3 {
+  width: 500px;
+  height: 12px;
+  top: 338px;
+  left: 714px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  display: flex;
+  flex-direction: row;
+}
+.reactangle4 {
+  width: 987px;
+  height: 12px;
+  top: 338px;
+  left: 714px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  display: flex;
+  flex-direction: row;
+}
+
+.circle {
+  width: 32px;
+  height: 32px;
+  top: 328px;
+  left: 1383px;
+  gap: 0px;
+  border: 3px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(237, 236, 236, 1);
+  box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.2);
+}
+.whiteline {
+  width: 753px;
+  height: 12px;
+  top: 338px;
+  left: 714px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.img {
+  width: 545.81px;
+
+  top: 129.19px;
+  left: 67.4px;
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: 55px;
+  margin-right: 50px;
+}
+.about{
+  font-size: 35px;
+  font-weight: bold;
+}

@@ -1,0 +1,81 @@
+.heading {
+  font-family: Poppins;
+  font-size: 65px;
+  font-weight: 600;
+
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+.container {
+  width: 932px;
+
+  left: 239px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.paragraph {
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 31.5px;
+  letter-spacing: 0.03em;
+  text-align: right;
+  width: 932px;
+  height: 101px;
+  top: 113px;
+  left: 239px;
+  gap: 0px;
+  opacity: 0px;
+}
+.secondContainer {
+  width: 1413px;
+
+  top: 238px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.imgg {
+  width: 330px;
+  height: 346px;
+  top: 238px;
+  gap: 0px;
+  border-radius: 14px 0px 0px 0px;
+  opacity: 0px;
+  margin: 20px;
+}
+.d {
+  width: 70px;
+  height: 70px;
+  top: 295px;
+  left: 18px;
+  gap: 0px;
+  border: 0.5px 0px 0px 0px;
+  opacity: 0px;
+  background-color: orange;
+}
+.img-size {
+  width: 100px;
+  margin: 20px;
+}
+.gdsigner {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.pp {
+  font-family: Poppins;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 28.5px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}

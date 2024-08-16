@@ -1,0 +1,74 @@
+/* Write your CSS here */
+.mainHeadingMu {
+  font-size: 50px;
+
+  font-family: cursive;
+  width: 90px;
+  height: 90px;
+  padding: 10px;
+  border-radius: 70px;
+  background: rgba(253, 111, 0, 1);
+  margin: 10px;
+  color: #fcf9f9;
+  text-align: center;
+
+  margin-right: 10px;
+}
+.nextHeading {
+  font-size: 48px;
+  width: 190px;
+  height: 59px;
+  top: 4px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Montserrat;
+  padding-bottom: 20px;
+  font-weight: 700;
+  line-height: 58.51px;
+  text-align: left;
+}
+.first-container {
+  display: flex;
+  flex-direction: row;
+  width: 30vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.first-containerr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.left-side-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 250px;
+}
+.right-side {
+  padding: 10px;
+}
+.imgs {
+  width: 80px;
+  height: 60px;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-paragraph {
+  font-family: Poppins;
+  font-size: 35px;
+  font-weight: 400;
+
+  width: 100vw;
+  height: 84px;
+  text-align: center;
+  background: rgba(84, 84, 84, 1);
+}

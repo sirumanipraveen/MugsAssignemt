@@ -1,0 +1,167 @@
+.container {
+  width: 1423px;
+  height: 1020px;
+  top: 2541px;
+  left: 250px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Poppins;
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 97.5px;
+  letter-spacing: 0.03em;
+}
+.paragraph {
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 31.5px;
+  letter-spacing: 0.03em;
+}
+.bbutton {
+  width: 70px;
+  height: 60px;
+  top: 257px;
+  left: 234px;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+  border-radius: 12px 0px 0px 0px;
+  border: 0.4px 0px 0px 0px;
+  opacity: 0px;
+  margin: 20px;
+}
+.bbutton1 {
+  width: Hug (150px) px;
+  height: Hug (56px) px;
+  top: 257px;
+  left: 326px;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+  border-radius: 12px 0px 0px 0px;
+  border: 0.4px 0px 0px 0px;
+  opacity: 0px;
+  margin: 20px;
+}
+.bbutton2 {
+  width: Hug (190px) px;
+  height: Hug (56px) px;
+  top: 257px;
+  left: 451px;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+  border-radius: 12px 0px 0px 0px;
+  border: 0.4px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  margin: 20px;
+}
+
+.bbutton3 {
+  width: Hug (184px) px;
+  height: Hug (56px) px;
+  top: 257px;
+  left: 658px;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+  border-radius: 12px 0px 0px 0px;
+  border: 0.4px 0px 0px 0px;
+  opacity: 0px;
+  margin: 20px;
+}
+
+.bbutton4 {
+  width: Hug (234px) px;
+  height: Hug (56px) px;
+  top: 257px;
+  left: 859px;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+  border-radius: 12px 0px 0px 0px;
+  border: 0.4px 0px 0px 0px;
+  opacity: 0px;
+  margin: 20px;
+}
+.projectss {
+  width: 445px;
+  height: 601px;
+  top: 419px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  box-shadow: 4px -1.5px 4px 0px rgba(0, 0, 0, 0.16);
+  width: 374px;
+  height: 405px;
+  top: 503px;
+  left: 39px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.img2 {
+  width: 274px;
+  height: 389px;
+  top: 419px;
+  left: 144px;
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: 50px;
+  background-image: url('https://s3-alpha-sig.figma.com/img/35f5/4291/466e1911ebe5383b65f5e9a7095f7e2c?Expires=1724630400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BPyq4z-AI2oEhx1uYNkgj0kZelOXlwtaaBq5HYXXEcB7fugcsFVWlsCkJJcR6FXbBVQLOyRh0c8iw-l-gI37153SR5zYou3jw-lwW-8Tfu6L-zVXeuHlbbnNAiAap1ylcAlXmVa1~i9NnbzQoykJDxGuSkUeHzJQOHmU5-Apicl3TfavyGfX~n-PrqUNyDQWltiMoilfMs6AHIxwKDxPIUedBixUmyz9cDJLe5rd~DK8LtZCXSKWhlwDBXLNahh0jkx2jTzWFOwAtf2bt3G9IRxkyqtpYwFVBgerPCQMKbO3c0tXLzjoauMIKUDnrNoyPuIxb5VU1Tk1ugVNTTmu1w__');
+  margin: 20px;
+}
+.headi {
+  font-family: Poppins;
+  font-size: 65px;
+  font-weight: 600;
+  line-height: 97.5px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+.prgph {
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 31.5px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+.input {
+  width: 627px;
+  height: 75px;
+  top: 262px;
+  left: 29px;
+  gap: 0px;
+  border-radius: 14px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(248, 248, 248, 1);
+}
+.bottn {
+  width: 222px;
+  height: 75px;
+  top: 262px;
+  left: 681px;
+  gap: 0px;
+  border-radius: 14px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  margin-left: 20px;
+}
+.vv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

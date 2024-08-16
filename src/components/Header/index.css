@@ -1,0 +1,146 @@
+.mainHeadingMu {
+  font-size: 50px;
+
+  font-family: cursive;
+  width: 90px;
+  height: 90px;
+  padding: 10px;
+  border-radius: 70px;
+  background: rgba(253, 111, 0, 1);
+  margin: 10px;
+  color: #fcf9f9;
+  text-align: center;
+
+  margin-right: 10px;
+}
+.nextHeading {
+  font-size: 48px;
+  width: 190px;
+  height: 59px;
+  top: 4px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Montserrat;
+  padding-bottom: 20px;
+  font-weight: 700;
+  line-height: 58.51px;
+  text-align: left;
+}
+.first-container {
+  display: flex;
+  flex-direction: row;
+  width: 30vw;
+}
+
+.left-side-heading {
+  width: 700px;
+  height: 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.right-side {
+  font-size: 20px;
+  padding-left: 10px;
+}
+.arrage-header {
+  width: 1500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Download-button {
+  height: 50px;
+  width: 100px;
+  background: rgba(253, 111, 0, 1);
+}
+.first-Section {
+  width: 1400px;
+  height: 617.24px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: row;
+}
+.sub-section {
+  width: 714px;
+  height: 392px;
+  top: 97px;
+  gap: 0px;
+  opacity: 0px;
+}
+.hi-am {
+  font-family: Poppins;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 36px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  padding-left: 10px;
+}
+.center-fist-section {
+  width: 1400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.Name {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  padding-left: 10px;
+  color: rgba(253, 111, 0, 1);
+}
+.desiner-ux-ui {
+  font-family: Poppins;
+  font-size: 100px;
+  font-weight: 700;
+  line-height: 120px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+.paragraph {
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 31.5px;
+  letter-spacing: 0.03em;
+  text-align: justified;
+  padding-left: 10px;
+}
+.Hire-me-button {
+  width: 188px;
+  height: 52px;
+  top: 540px;
+  left: 7px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(253, 111, 0, 1);
+  margin-left: 20px;
+}
+.img {
+  width: 408px;
+  height: 352.41px;
+  left: 862px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 250px;
+  border: solid;
+  border-color: wheat;
+}
